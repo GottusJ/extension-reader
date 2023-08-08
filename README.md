@@ -1,4 +1,4 @@
-<h1 align="center">🔍 Extension Reader 🔎</h1>
+<h1 align="center">Extension Reader</h1>
 <br />
 <p align="center">This is just a basic python script to get the types of files in a directory. 📁
 <br />
